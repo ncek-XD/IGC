@@ -59,3 +59,7 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
 <h5 align="left">catatan:</h5>
 
 gunakanlah dengan ```bijak,``` atas apapun yang terjadi admin tidak ```bertanggung jawab.```
+
+<a href="https://github.com/ncek-xd">
+  <img width="40%" src="https://avatars.githubusercontent.com/u/101446019?s=96&v=4" />
+</a>
