@@ -18,13 +18,26 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
     $cd IGC
     $python run.py
 
-- Oke sekarang script sudah berhasil di ```install```
 
 <h5 align="left">MENJALANKAN SCRIPT:</h5>
 
     $ cd IGC
     $ python run.py
+    
+## Metode Login
+- [x] Cookie Login
 
+## Metode Crack
+- [x] API
+- [x] AJAX
+
+## Features
+- [x] Crack Dari Pencarian Nama 
+- [x] Crack Dari Pengikut
+- [x] Crack Dari Mengikuti
+- [x] Crack Ulang Hasil CP
+- [x] Lihat Hasil Crack
+- [x] Bot Auto Unfollow
 <h5 align="left">TAMPILAN MENU:</h5>
 
 ![IMG_20221104_175651](https://raw.githubusercontent.com/ncek-XD/IGC/main/IMG_20221126_162531.jpg)
@@ -32,6 +45,7 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
 <h5 align="left">LOGIN COOKIE :</h5>
 
 ![IMG_20221104_175638](https://raw.githubusercontent.com/ncek-XD/IGC/main/Screenshot_2022-11-26-16-19-30-789_com.termux.jpg)
+
 
 - Notice me: ```Jika belum tau cara mendapatkan cookie Instagram``` <a href="https://youtu.be/VrGZdY5L19k">klik disini</a>
 
