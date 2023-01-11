@@ -40,7 +40,7 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
 - [x] Bot Auto Unfollow
 <h5 align="left">TAMPILAN MENU:</h5>
 
-![IMG_20221104_175651](https://raw.githubusercontent.com/ncek-XD/IGC/main/IMG_20221126_162531.jpg)
+![IMG_20221104_175651](https://raw.githubusercontent.com/ncek-XD/IGC/main/asset/Screenshot_2023-01-11-12-36-43-565_com.termux.jpg)
 
 <h5 align="left">LOGIN COOKIE :</h5>
 
