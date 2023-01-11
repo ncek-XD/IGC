@@ -51,7 +51,7 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
 
 <h5 align="left">RESULT CRACK:</h5>
 
-![IMG_20221104_175714](https://raw.githubusercontent.com/ncek-XD/IGC/main/IMG-20221125-WA0060.jpg)
+![IMG_20221104_175714](https://raw.githubusercontent.com/ncek-XD/IGC/main/asset/IMG-20230111-WA0029.jpg)
 
 - Notice me: ```Hasil crack followers banyak atau sedikit nya tergantung target yang di dapatkan.```
 
