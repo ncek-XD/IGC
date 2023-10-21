@@ -8,14 +8,8 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
     $pkg install git
     $pkg install python -y
     $git clone https://github.com/ncek-xd/IGC
-    $pip install stdiomask
-    $pip install requests
-    $pip install cython
-    $pip install stdiomask
-    $pip install bs4
-    $pip install rich
-    $pip install pycryptodome
     $cd IGC
+    $pip install -r requirements.txt
     $python run.py
 
 
