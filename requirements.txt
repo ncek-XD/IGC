@@ -9,3 +9,4 @@ Unidecode
 pycryptodome
 pycryptodomex
 pytz
+phonenumbers
