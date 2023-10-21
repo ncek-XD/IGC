@@ -1,0 +1,11 @@
+requests
+rich
+futures
+stdiomask
+mechanize
+bs4
+clean-text
+Unidecode
+pycryptodome
+pycryptodomex
+pytz
