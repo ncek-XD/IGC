@@ -6,6 +6,5 @@ mechanize
 bs4
 clean-text
 Unidecode
-pycryptodomex
 pytz
 phonenumbers
