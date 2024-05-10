@@ -11,6 +11,7 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
     $cd IGC
     $pkg install clang python binutils libffi openssl libsodium
     $pip install -r requirements.txt
+    $chmod +x igc
     $python run.py
 
 
