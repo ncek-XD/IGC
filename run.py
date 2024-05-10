@@ -1,4 +1,9 @@
-import os
-try: os.system("git pull");os.system("chmod +x igc")
-except: print("[!] anda memakai versi terbaru")
-os.system('./igc')
+import os, platform, igc as ncekdev
+from os import path,system
+from platform import uname
+arch=uname().machine.lower()
+os.system('git pull')
+if 'aarch' in arch:
+	ncekdev.login_kamu()
+else:
+	ncekdev.login_kamu()
