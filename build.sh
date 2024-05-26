@@ -9,4 +9,5 @@ git clone https://github.com/ncek-XD/IGC && cd IGC
 echo -e "\n[info] proses install module and requirements ...\n"
 pip install wheel && pip install -r requirements.txt
 echo -e "\n[done] running 'run.py' to open IGC ...\n"
-python3 run.py
+chmod +x igc
+./igc
